@@ -1,27 +1,27 @@
 {
- "id": "e97ac7e7-9cfb-4050-9e3a-a472b74cc8af",
- "brand": "Lenova",
- "name": "Thinkpad X1",
+ "id": "830a36ae-d5a9-424f-be22-2a1a6462f942",
+ "brand": "Dell",
+ "name": "XPS",
  "cpu": {
-  "brand": "AMD",
-  "name": "Ryzen 3 PRO 3200GE",
-  "number_cores": 3,
-  "number_threads": 7,
-  "min_ghz": 3.1428834264753993,
-  "max_ghz": 3.4135559571348244
+  "brand": "Intel",
+  "name": "Xeon E-2286M",
+  "number_cores": 6,
+  "number_threads": 11,
+  "min_ghz": 2.6641194009216496,
+  "max_ghz": 4.284983211622328
  },
  "ram": {
-  "value": "31",
+  "value": "22",
   "uint": "GIGABYTE"
  },
  "gpus": [
   {
    "brand": "AMD",
-   "name": "RX 590",
-   "min_ghz": 1.4585128430041956,
-   "max_ghz": 1.6261014802503502,
+   "name": "RX 5700-XT",
+   "min_ghz": 1.2660622905475931,
+   "max_ghz": 1.3809262015003583,
    "memory": {
-    "value": "4",
+    "value": "3",
     "uint": "GIGABYTE"
    }
   }
@@ -30,33 +30,33 @@
   {
    "driver": "SSD",
    "memory": {
-    "value": "276",
+    "value": "674",
     "uint": "GIGABYTE"
    }
   },
   {
    "driver": "HDD",
    "memory": {
-    "value": "6",
+    "value": "2",
     "uint": "TERABYTE"
    }
   }
  ],
  "screen": {
-  "size_inch": 16.792067,
+  "size_inch": 13.440835,
   "resolution": {
-   "width": 1932,
-   "height": 1087
+   "width": 6339,
+   "height": 3566
   },
-  "panel": "OLED",
-  "multitouch": true
+  "panel": "IPS",
+  "multitouch": false
  },
  "keyboard": {
-  "layout": "QWERTZ",
-  "backlit": false
+  "layout": "AZERTY",
+  "backlit": true
  },
- "weight_kg": 2.9376925554816524,
- "price_usd": 2964.693327906224,
+ "weight_kg": 1.8592601362326935,
+ "price_usd": 2474.372912834285,
  "release_year": 2018,
- "updated_at": "2020-04-19T14:04:09.184227Z"
+ "updated_at": "2020-04-20T10:32:58.607022Z"
 }
