@@ -1,27 +1,27 @@
 {
- "id": "830a36ae-d5a9-424f-be22-2a1a6462f942",
+ "id": "69e4c7ab-bbb4-4048-9cb1-ec8bd94b4a6c",
  "brand": "Dell",
  "name": "XPS",
  "cpu": {
-  "brand": "Intel",
-  "name": "Xeon E-2286M",
-  "number_cores": 6,
-  "number_threads": 11,
-  "min_ghz": 2.6641194009216496,
-  "max_ghz": 4.284983211622328
+  "brand": "AMD",
+  "name": "Ryzen 3 PRO 3200GE",
+  "number_cores": 4,
+  "number_threads": 9,
+  "min_ghz": 2.391512542729253,
+  "max_ghz": 3.4092304917096445
  },
  "ram": {
-  "value": "22",
+  "value": "9",
   "uint": "GIGABYTE"
  },
  "gpus": [
   {
-   "brand": "AMD",
-   "name": "RX 5700-XT",
-   "min_ghz": 1.2660622905475931,
-   "max_ghz": 1.3809262015003583,
+   "brand": "NVIDIA",
+   "name": "GTX 1070",
+   "min_ghz": 1.4259158068087046,
+   "max_ghz": 1.584379968060962,
    "memory": {
-    "value": "3",
+    "value": "5",
     "uint": "GIGABYTE"
    }
   }
@@ -30,33 +30,33 @@
   {
    "driver": "SSD",
    "memory": {
-    "value": "674",
+    "value": "246",
     "uint": "GIGABYTE"
    }
   },
   {
    "driver": "HDD",
    "memory": {
-    "value": "2",
+    "value": "3",
     "uint": "TERABYTE"
    }
   }
  ],
  "screen": {
-  "size_inch": 13.440835,
+  "size_inch": 13.475226,
   "resolution": {
-   "width": 6339,
-   "height": 3566
+   "width": 3296,
+   "height": 1854
   },
   "panel": "IPS",
   "multitouch": false
  },
  "keyboard": {
   "layout": "AZERTY",
-  "backlit": true
+  "backlit": false
  },
- "weight_kg": 1.8592601362326935,
- "price_usd": 2474.372912834285,
- "release_year": 2018,
- "updated_at": "2020-04-20T10:32:58.607022Z"
+ "weight_kg": 2.4996418418882906,
+ "price_usd": 2447.458927151898,
+ "release_year": 2019,
+ "updated_at": "2020-04-28T13:27:21.108011Z"
 }
